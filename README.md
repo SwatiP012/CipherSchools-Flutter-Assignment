@@ -1,16 +1,31 @@
 # cipherx
 
-A new Flutter project.
+# CipherX - Expense Tracker Application
 
-## Getting Started
+CipherX is a clean and modern expense tracking application built using Flutter. It helps users manage their personal finances by tracking income and expenses, visualizing data through charts, and organizing transactions efficiently.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- User authentication with email and Google Sign-In
+- Real-time account balance display
+- Time-based filtering (Day, Week, Month, Year)
+- Interactive transaction history with delete option
+- Expense and income visualized using Syncfusion charts
+- Local persistent storage using Hive
+- Clean, intuitive, and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Firebase Authentication
+- Hive (local database)
+- Provider (state management)
+- Syncfusion Flutter Charts
+- Shared Preferences
+
+## APK Download
+
+To test the application on an Android device, download the latest APK from the following link:
+
+**Download APK:** [Google Drive Link](https://drive.google.com/file/d/1R3j3802EvPxr_V52F0mTSBFXPcvrgEfc/view?usp=drivesdk)
+
